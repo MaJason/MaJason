@@ -1,6 +1,6 @@
 # jeff-mawiejie technology share blog
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
+##### This is the technology share blog of jeff-maweijie [Blog](http://jeff-maweijie.github.io/blog/), all documents is over there!
 
 #### [View My Live Blog &rarr;](http://jeff-maweijie.github.io/blog/)
 
